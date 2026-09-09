@@ -1,0 +1,64 @@
+body{
+    background-color: lightgray;
+    font-family: Verdana;
+    color: rgb(0, 0, 0);
+}
+
+.titulo{
+    color: rgb(169, 9, 9);
+    text-align: center;
+}
+
+#principal{
+    border: 2px solid rgba(0, 0, 0, 0.326);
+    padding: 15px;
+    margin: 20px;
+}
+
+
+aside{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 20px;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.326);
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: rgba(40, 30, 30, 0.737);
+} 
+#secundario{
+    border: 2px solid rgba(153, 45, 45, 0.326);
+    padding: 15px;
+    margin: 20px;
+}
+
+aside{
+    border: 1px solid rgb(90, 192, 136);
+    padding: 10px;
+    margin: 20px;
+}
+
+nav{
+    background-color: rgba(218, 26, 26, 0.326);
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: rgba(40, 30, 30, 0.737);
+} 
