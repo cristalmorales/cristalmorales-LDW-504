@@ -37,7 +37,7 @@ a:hover{
     color: rgba(40, 30, 30, 0.737);
 } 
 #secundario{
-    border: 2px solid rgba(153, 45, 45, 0.326);
+    border: 2px solid rgb(183, 136, 136);
     padding: 15px;
     margin: 20px;
 }
