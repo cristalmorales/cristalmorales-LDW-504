@@ -37,19 +37,19 @@ a:hover{
     color: rgba(40, 30, 30, 0.737);
 } 
 #secundario{
-    border: 2px solid rgb(183, 136, 136);
+    border: 2px solid rgb(255, 135, 177);
     padding: 15px;
     margin: 20px;
 }
 
 aside{
-    border: 1px solid rgb(90, 192, 136);
+    border: 1px solid rgb(255, 159, 244);
     padding: 10px;
     margin: 20px;
 }
 
 nav{
-    background-color: rgba(218, 26, 26, 0.326);
+    background-color: rgb(255, 141, 213);
     padding: 10px;
 }
 
@@ -60,5 +60,5 @@ a{
 }
 
 a:hover{
-    color: rgba(40, 30, 30, 0.737);
+    color: rgb(255, 94, 180);
 } 
