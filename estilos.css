@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    font-family: "poppins, cursive";
+    font-family: "poppins", "cursive";
     background-color: #1a035c;
     color: #bdd9ff;
     text-align: center;
