@@ -1,11 +1,12 @@
 body {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:poppins;
     margin: 1px;
     background-color: #4200f7;
     color: #333333;
 }
 
 header {
+    font-family: dancing script, cursive;
     background-color: #1a035c;
     color: #bdd9ff;
     text-align: center;
