@@ -1,12 +1,12 @@
 body {
-    font-family:poppins;
+    font-family: 'Arial Narrow';
     margin: 1px;
     background-color: #4200f7;
     color: #000000;
 }
 
 header {
-    font-family: dancing script, cursive;
+    font-family: "poppins, cursive";
     background-color: #1a035c;
     color: #bdd9ff;
     text-align: center;
