@@ -1,13 +1,13 @@
 body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     margin: 1px;
-    background-color: #ffb0fa;
+    background-color: #1a035c;
     color: #333333;
 }
 
 header {
-    background-color: #ffb6e2;
-    color: #f992cf;
+    background-color: #524cd3;
+    color: #bdd9ff;
     text-align: center;
     padding: 20px;
 }
@@ -32,13 +32,13 @@ main {
 }
 
 section {
-    background-color: #ffd3ed;
+    background-color: #443dff;
     padding: 20px;
     margin-bottom: 20px;
 }
 
 h2 {
-    color: #ff8fd0;
+    color: #8f98ff;
 }
 
 p {
@@ -47,7 +47,7 @@ p {
 }
 
 footer {
-    background-color: #ffb6e2;
+    background-color: #524cd3;
     color: white;
     text-align: center;
     padding: 15px;
